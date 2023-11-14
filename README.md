@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Mohamed 👋
+
+Please click [here](https://m-elbeltagi.github.io/) to view my _portfolio_, which has my resume and list of publications, as well as some highlights of the projects I've been working on.
+
+Or feel free to stay here and explore my repositories, and reach out to me if you have any questions!
 
 <!--
 **m-elbeltagi/m-elbeltagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on finishing up my PhD, and a side project called CapitaLens (details in my portfolio)
+- 🌱 I’m currently learning about differential forms (Highly reccomend this book: A Geometric Approach to Differential Forms by Bachman), and also reading about [Emotion Promoting LLMs](https://arxiv.org/abs/2307.11760)
+- 👯 I’m looking to collaborate on answering interesting Data Science questions
+-  💬 Ask me about my research (HV in liquid Xenon detectors, or ML estimating errors on ML algorithms applied to rare-event particle physics). Or any of my projects really!
