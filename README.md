@@ -1,4 +1,4 @@
-### Hi there, I'm Mohamed 👋
+### Hey there, I'm Mohamed 👋
 
 Please click [here](https://m-elbeltagi.github.io/) to view my _portfolio_, which has my resume and list of publications, as well as some highlights of the projects I've been working on.
 
